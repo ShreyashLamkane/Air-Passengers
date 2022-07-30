@@ -22,7 +22,7 @@ warnings.filterwarnings('ignore')
 # In[16]:
 
 
-data=pd.read_csv('E:/Placement courses/ML Projects/Air Passengers/AirPassengers.csv')
+data=pd.read_csv('AirPassengers.csv')
 
 
 # In[17]:
